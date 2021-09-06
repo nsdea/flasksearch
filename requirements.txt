@@ -1,0 +1,5 @@
+flask
+favicon
+wikipedia
+duckduckgo_search
+youtube-search-python
